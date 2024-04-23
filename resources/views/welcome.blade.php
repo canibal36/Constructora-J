@@ -99,7 +99,7 @@
                                     <div class="collapse navbar-collapse" id="navbarScroll">
                                         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll">
                                             <li class="nav-item">
-                                                <a class="nav-link active" aria-current="page" href="#">Home <i
+                                                <a class="nav-link active" aria-current="page" href="#">Dashboard <i
                                                         class="fas fa-chevron-down"></i></a>
                                                 <ul class="list-unstyled sub-menu">
                                                     <li><a href="index.html">Pagina 2</a></li>
@@ -193,7 +193,7 @@
                     <div class="menu-list">
                         <ul class="list-unstyled">
                             <li class="sub-mobile-menu">
-                                <a href="#">Home <i class="fas fa-chevron-down float-end"></i></a>
+                                <a href="#">Dashboard <i class="fas fa-chevron-down float-end"></i></a>
                                 <ul class="list-unstyled">
                                     <li><a href="index.html">Pagina 1</a></li>
                                     <li><a href="index-2.html">Pagina 2</a></li>
