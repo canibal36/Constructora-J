@@ -18,7 +18,7 @@ class UserController extends Controller
         $ip = $request->ip(); // Static IP: $ip = '162.159.24.227';
         $currentUserInfo = Location::get($ip);
 
-        dd($ip);
+        
           
         return view('user', compact('currentUserInfo'));
     }
