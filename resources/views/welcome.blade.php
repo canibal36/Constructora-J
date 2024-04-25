@@ -363,9 +363,9 @@
                             </div>
                             <div class="text">
                                 <h4 class="title">
-                                    <a href="service-details.html">Colocacon de ceramica</a>
+                                    <a href="service-details.html">Albiñileria en general</a>
                                 </h4>
-                                <p>aqu ira informacion sobre el trabajo de colocacion de ceramica.</p>
+                                <p>Aqui ira informacion sobre el trabajo de colocacion de ceramica.</p>
                                 <a href="service-details.html" class="read-more uppercase">Leer mas<i
                                         class="fas fa-arrow-right"></i></a>
                             </div>
@@ -420,8 +420,8 @@
                     <div class="col-lg-6">
                         <div class="about-text">
                             <div class="section-title-one">
-                                <span class="sub-title uppercase no-after">About Us</span>
-                                <h2 class="title">Delivering excellence, one shipment at a time</h2>
+                                <span class="sub-title uppercase no-after">Informaciónde la empresa</span>
+                                <h2 class="title">En este apartado se podra poner los años de experiencia en el sector, cidades en las cuales se an hecho trabajos, etc.</h2>
                             </div>
                             <div class="about-details">
                                 <p>It is a long established fact that a reader will be distracted by the readablejk
@@ -462,8 +462,8 @@
                 <div class="row">
                     <div class="col-lg-7 col-xl-6 col-md-8">
                         <div class="section-title-one">
-                            <span class="sub-title uppercase no-after">recent work</span>
-                            <h2 class="title">Connecting the world through seamless transportation</h2>
+                            <span class="sub-title uppercase no-after">Fotos Recientes</span>
+                            <h2 class="title">Este podria ser  un apartado para publicar fotos de lo que estan haciendo actualmente el equipo de construccion (albañiles)</h2>
                         </div>
                     </div>
                 </div>
@@ -557,7 +557,7 @@
                         <div class="counter-two-item d-flex align-items-center">
                             <div class="info">
                                 <h2 class="counter-number"><span class="odometer" data-count="200"></span>+</h2>
-                                <p>Winning award</p>
+                                <p>Trabajos En ejecución</p>
                             </div>
                             <div class="icon">
                                 <img src="assets/img/counter/counter-two-icon-1.png" alt="counter-two-icon-1">
@@ -568,7 +568,7 @@
                         <div class="counter-two-item d-flex align-items-center">
                             <div class="info">
                                 <h2 class="counter-number"><span class="odometer" data-count="550"></span>+</h2>
-                                <p>Project Done</p>
+                                <p>Trabajos realizados</p>
                             </div>
                             <div class="icon">
                                 <img src="assets/img/counter/counter-two-icon-2.png" alt="counter-two-icon-2">
@@ -579,7 +579,7 @@
                         <div class="counter-two-item d-flex align-items-center">
                             <div class="info">
                                 <h2 class="counter-number"><span class="odometer" data-count="100"></span>+</h2>
-                                <p>Clients Review</p>
+                                <p>Clientes satisfechos</p>
                             </div>
                             <div class="icon">
                                 <img src="assets/img/counter/counter-two-icon-3.png" alt="counter-two-icon-1">
@@ -590,7 +590,7 @@
                         <div class="counter-two-item d-flex align-items-center">
                             <div class="info">
                                 <h2 class="counter-number"><span class="odometer" data-count="350"></span>+</h2>
-                                <p>Team Member</p>
+                                <p>Albañiles</p>
                             </div>
                             <div class="icon">
                                 <img src="assets/img/counter/counter-two-icon-4.png" alt="counter-two-icon-1">
@@ -608,16 +608,13 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="section-title-one">
-                            <span class="sub-title uppercase no-after">active employes</span>
-                            <h2 class="title">Your trusted most a partner reliable </h2>
+                            <span class="sub-title uppercase no-after">Empleados Activos</span>
+                            <h2 class="title">Mi personal mas confiable </h2>
                         </div>
                         <div class="employee-info">
-                            <p>It is a long established fact that a reader will be a man distracted by the readable
-                                hklklkl content of
-                                a
-                                page layout loren ipsum</p>
-                            <a href="about-us.html" class="common-btn uppercase">Learn More <i class="fas fa-plus"></i></a>
-                            <h1 class="team-member">TEAM MEMBER</h1>
+                            <p>Aqui encontraran iformación y contacto de mis albañiles mas responsables y confiable. </p>
+                            <a href="about-us.html" class="common-btn uppercase">Leer mas <i class="fas fa-plus"></i></a>
+                            <h1 class="team-member">Miembros de Mi Equipo</h1>
                         </div>
                     </div>
                     <div class="col-lg-8">
