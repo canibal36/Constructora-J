@@ -1076,7 +1076,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="copyright">
-                                <p>© Desarrollado por Leonel Arízaga Diaz</p>
+                                <p>© Desarrollado por Leonel.inc</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
