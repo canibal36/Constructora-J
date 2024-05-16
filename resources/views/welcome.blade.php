@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SteelCity - Construction Building Template</title>
+    <title>leo catálogo</title>
     <meta name="description" content="SteelCity - Construction Building Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -75,9 +75,9 @@
                                         <i class="fas fa-phone-alt"></i>
                                     </div>
                                     <div class="content">
-                                        <span>Contactar a Jose luis:</span>
+                                        <span>Contactar a ....... </span>
                                         <h6 class="title">
-                                            <a href="tel:+59175784403">+59175784403</a>
+                                            <a href="tel:+59175784403">+591 .......</a>
                                         </h6>
                                     </div>
                                 </div>
@@ -266,17 +266,17 @@
         <div class="side-info mb-30">
             <div class="contact-list">
                 <h4>Propietario: Jose Luis Arízaga Diaz</h4>
-                <p>Esta La Pagina web de la Empresa constructora de Jose Luis Arízaga Diaz <br> Prikano, Dope</p>
+                <p>Esta La Pagina web para una empresa constructora <br> Prikano, Dope</p>
             </div>
             <div class="contact-list">
                 <h4>Número de celular</h4>
-                <p><a href="tel:+0989787698659">+59175784403</a></p>
-                <p><a href="tel:+(090)87658654385">+59175784403</a></p>
+                <p><a href="tel:+0989787698659">+591.....</a></p>
+                <p><a href="tel:+(090)87658654385">+591.....</a></p>
             </div>
             <div class="contact-list">
                 <h4>Contactar Por:</h4>
-                <p><a href="mailto:info@example.com">Correo Electronico@example.com</a></p>
-                <p><a href="mailto:example.mail@hum.com">example.mail@hum.com</a></p>
+                <p><a href="mailto:info@example.com">Correo Electronico@ejemplo.com</a></p>
+                <p><a href="mailto:example.mail@hum.com">ejemplo.mail@hum.com</a></p>
             </div>
         </div>
         <div class="social">
@@ -1001,7 +1001,7 @@
                                     </a>
                                 </div>
                                 <div class="footer-content">
-                                    <p>Esta es pagina web de la Empresa constructora de Jose Luis Arízaga Diaz... necesito ams informacion para publicar aqui.</p>
+                                    <p>Esta es pagina web de la Empresa constructora 'Aqui va el nombre de la empresa que adquiera este sistema'.</p>
                                     <div class="social">
                                         <ul class="list-unstyled">
                                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -1019,11 +1019,11 @@
                                 <div class="footer-link">
                                     <ul>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Información sobre la empresa de construcción</a></li>
-                                        <li><a href="#"><i class="fas fa-angle-right"></i> De Jose Luis Arízaga Diaz</a></li>
+                                        <li><a href="#"><i class="fas fa-angle-right"></i> Aqui va el nombre de la persona que me compre el sistema </a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Contactar con el Constructor </a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Contactar con el arquitecto </a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Espacio disponible</a></li>
-                                        <li><a href="#"><i class="fas fa-angle-right"></i> Otro espacio disponibleß</a></li>
+                                        <li><a href="#"><i class="fas fa-angle-right"></i> Otro espacio disponible</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1084,7 +1084,7 @@
                                 <ul>
                                     <li><a href="#">Informacion del dev</a></li>
                                     <li><a href="#">¿Tu quieres una web? </a></li>
-                                    <li><a href="#">Contactar</a></li>
+                                    <li><a href="#">Contactar a Leonel,inc</a></li>
                                 </ul>
                             </div>
                         </div>
