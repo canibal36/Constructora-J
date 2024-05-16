@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>leo catálogo</title>
-    <meta name="description" content="SteelCity - Construction Building Template">
+    <meta name="description" content="Sistema de administración para empresa construcctora">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/fevicon.png">
@@ -66,7 +66,7 @@
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
-                                        <span>Calle 2010</span>
+                                        <span>Calle # </span>
                                         <h6 class="title">Sucre-Bolivia</h6>
                                     </div>
                                 </div>
@@ -99,7 +99,7 @@
                                     <div class="collapse navbar-collapse" id="navbarScroll">
                                         <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll">
                                             <li class="nav-item">
-                                                <a class="nav-link active" aria-current="page" href="#">Dashboard <i
+                                                <a class="nav-link active" aria-current="page" href="#">En venta <i
                                                         class="fas fa-chevron-down"></i></a>
                                                 <ul class="list-unstyled sub-menu">
                                                     <li><a href="index.html">Pagina 2</a></li>
@@ -265,7 +265,7 @@
         </div>
         <div class="side-info mb-30">
             <div class="contact-list">
-                <h4>Propietario: Jose Luis Arízaga Diaz</h4>
+                <h4>Propietario: .............</h4>
                 <p>Esta La Pagina web para una empresa constructora <br> Prikano, Dope</p>
             </div>
             <div class="contact-list">
@@ -302,8 +302,7 @@
                         <div class="col-lg-8">
                             <div class="banner-info">
                                 <span class="sub-title uppercase wow fadeInUp" data-wow-delay=".2s">Información sobre los Trabajos que realiza la empresa:</span>
-                                <h2 class="banner-title wow fadeInUp" data-wow-delay=".4s">Elavoracion de planos y 
-                                    Trabajos de contrucción</h2>
+                                <h2 class="banner-title wow fadeInUp" data-wow-delay=".4s">Este sistema web es para la administracion de una empresa contrucctora, esta en venta! </h2>
                                 <p class="wow fadeInUp" data-wow-delay=".6s">Aqui se tiene que agregar descripción sobre todo el tipo de trabajos apra los cuales puedes contratar a la empresa de jose luis
                                     Construcion y relaizacion de planes, etc
                                     Tambien se dise;ara una galeria Para publicar Experiencias o fotos de trabajos ya realizados.  </p>
@@ -971,7 +970,7 @@
                         <div class="phone-icon">
                             <i class="fas fa-phone-alt"></i>
                         </div>
-                        <h3 class="text-white title">¿Necesitas una cotización? <a href="celular +59175794403">+59175794403</a></h3>
+                        <h3 class="text-white title">¿Necesitas una cotización? <a href="celular +59175794403">+591.....</a></h3>
                         <p class="text-white">Puedes hacer click aqui para asi poder mandarme un mensaje directoa  mi whatsapp </p>
                     </div>
                 </div>
@@ -1034,7 +1033,7 @@
                                 <div class="footer-link">
                                     <ul>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Información sobre la empresa de construcción</a></li>
-                                        <li><a href="#"><i class="fas fa-angle-right"></i> De Jose Luis Arízaga Diaz</a></li>
+                                        <li><a href="#"><i class="fas fa-angle-right"></i> 'Aqui ira la informacion de la persona que compre este sitema web'</a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Contactar con el Constructor </a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Contactar con el arquitecto </a></li>
                                         <li><a href="#"><i class="fas fa-angle-right"></i> Espacio disponible</a></li>
